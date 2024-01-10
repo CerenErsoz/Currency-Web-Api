@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Currency_Web_Api.props" />
+</Project>
